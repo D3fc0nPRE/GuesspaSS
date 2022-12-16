@@ -1,4 +1,4 @@
-//try this password:helloworld123
+//HINT = try this password:helloworld123
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
