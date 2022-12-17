@@ -1,4 +1,14 @@
-//HINT = try this password:helloworld123
+/* HINT = try this password:helloworld123
+   TRY = 123456780
+   TRY = 0987654321
+   TRY = 0712345678
+   TRY = THISISTHEREALPASSW0RD
+   TRY = CORRECT4321
+   TRY = WHATISTHEPASSWORD
+   TRY = PASSWORD99
+   TRY = DROWSSAP66
+Try thsese PASSWORDS MAYBE YOU WILL FIND IT :) */
+ 
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
