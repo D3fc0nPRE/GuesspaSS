@@ -35,11 +35,12 @@
    printf("password: ");
    if (fgets(guess, 50, stdin) == NULL)
    return authenticated;
-        if (strlen(guess) == 0)
-        return authenticated;
-        if (guess[strlen(guess)-1] != '\n') {   
-        while ( !feof(stdin) && getchar() != '\n') 
-        return authenticated;
+
+   if (strlen(guess) == 0)
+   return authenticated;
+   if (guess[strlen(guess)-1] != '\n') {   
+   while ( !feof(stdin) && getchar() != '\n') 
+   return authenticated;
    } else {
         guess[strlen(guess)-1] = 0;
     }
